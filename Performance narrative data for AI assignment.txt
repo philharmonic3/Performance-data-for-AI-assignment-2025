@@ -1,0 +1,51 @@
+Employee Name,Employee ID,Department,Manager Feedback,Performance Rating,Strengths Highlighted,Areas for Improvement,Feedback Date
+John Doe,101,Marketing,"Outstanding at campaign strategy.",5,"Creativity, Strategic Thinking","Time management",2025-04-01
+Jane Smith,102,Sales,"Needs better deal-closing techniques.",3,"Persistence, Rapport Building","Negotiation Skills",2025-04-02
+Michael Brown,103,HR,"Excels in conflict resolution.",4,"Empathy, Communication","Documentation accuracy",2025-04-03
+Emily Davis,104,IT,"Highly skilled in problem-solving.",5,"Technical Expertise, Analytical Thinking","Team Collaboration",2025-04-04
+Daniel Lee,105,Finance,"Good at cost optimization but needs detail accuracy.",4,"Budget Analysis, Decision-Making","Attention to Detail",2025-04-05
+Sophia Adams,106,Marketing,"Creative thinker, lacks follow-through.",3,"Creativity, Innovation","Project Execution",2025-04-06
+Oliver Martinez,107,Operations,"Efficient but needs leadership development.",4,"Organization, Process Improvement","Leadership Skills",2025-04-07
+Isabella Johnson,108,Sales,"Consistent but needs better client communication.",3,"Consistency, Customer Service","Communication Skills",2025-04-08
+Ethan Green,109,HR,"Outstanding in recruitment processes.",5,"Recruitment Expertise, Interviewing","Employee Retention Strategies",2025-04-09
+Ava Brown,110,Finance,"Sharp and analytical thinker.",5,"Analytical Thinking, Accuracy","Cross-Functional Collaboration",2025-04-10
+Liam Carter,111,IT,"Innovative but needs time management improvement.",4,"Innovation, Programming","Time Management",2025-04-11
+Mia Campbell,112,Marketing,"Great at storytelling but needs clarity in presentation.",4,"Storytelling, Creativity","Presentation Skills",2025-04-12
+James Wilson,113,Finance,"Efficient in calculations but needs interpersonal skills.",3,"Numerical Accuracy, Budget Management","Interpersonal Skills",2025-04-13
+Ella Wright,114,Sales,"Quick learner but needs deeper product knowledge.",4,"Adaptability, Client Relations","Product Knowledge",2025-04-14
+Lucas Scott,115,Operations,"Detail-oriented but needs problem-solving skills.",3,"Organizational Skills, Precision","Problem-Solving",2025-04-15
+Charlotte Evans,116,HR,"Excellent at team-building.",5,"Team Collaboration, Empathy","Policy Development",2025-04-16
+Jacob Foster,117,Marketing,"Visionary but needs deadline adherence.",4,"Strategic Vision, Creativity","Time Management",2025-04-17
+Amelia Torres,118,Finance,"Reliable but needs cross-department communication.",3,"Dependability, Financial Analysis","Communication Skills",2025-04-18
+Benjamin Hall,119,IT,"Resourceful but needs attention to detail.",4,"Problem-Solving, Technical Expertise","Accuracy",2025-04-19
+Harper Clark,120,Sales,"Proactive but needs better negotiation skills.",3,"Initiative, Positive Attitude","Negotiation Skills",2025-04-20
+Grace Bennett,121,Operations,"Highly organized but lacks creativity.",4,"Organization, Discipline","Creative Thinking",2025-04-21
+Ryan Peterson,122,Marketing,"Skilled at visual design but needs SEO knowledge.",4,"Visual Design, Creativity","SEO Knowledge",2025-04-22
+Zoey Murphy,123,Finance,"Sharp but needs strategic thinking.",3,"Analytical Skills, Precision","Strategic Planning",2025-04-23
+Alexander White,124,IT,"Outstanding coder but needs teamwork skills.",5,"Coding Expertise, Problem-Solving","Collaboration",2025-04-24
+Lily Morgan,125,HR,"Exceptional mediator but needs innovation.",4,"Empathy, Communication","Innovation",2025-04-25
+Henry Lopez,126,Operations,"Strategic thinker but lacks adaptability.",3,"Strategic Thinking, Leadership","Flexibility",2025-04-26
+Ella Martin,127,Marketing,"Creative but needs better strategic planning.",4,"Creativity, Presentation Skills","Strategic Planning",2025-04-27
+Nathan Reed,128,Finance,"Meticulous but lacks networking skills.",4,"Attention to Detail, Problem-Solving","Networking Skills",2025-04-28
+Victoria King,129,Sales,"Motivated but needs persistence in closing deals.",3,"Drive, Energy","Closing Skills",2025-04-29
+Jack Taylor,130,Operations,"Efficient but needs improvement in communication.",3,"Precision, Speed","Communication Skills",2025-04-30
+Hannah Phillips,131,HR,"Empathetic leader but needs stronger organizational skills.",4,"Leadership, Communication","Organization",2025-05-01
+Evan Roberts,132,Marketing,"Resourceful but needs better focus on audience needs.",4,"Creativity, Problem-Solving","Target Audience Knowledge",2025-05-02
+Olivia Hughes,133,Finance,"Analytical but lacks creativity.",4,"Accuracy, Organization","Creative Thinking",2025-05-03
+Noah Simmons,134,IT,"Great multitasker but needs deep learning skills.",4,"Multi-tasking, Technical Knowledge","Deep Learning",2025-05-04
+Emily Cooper,135,Sales,"Good communicator but needs better follow-through.",3,"Customer Service, Patience","Follow-Up Skills",2025-05-05
+Charlotte Perry,136,Operations,"Reliable but needs innovative solutions.",4,"Dependability, Precision","Creativity",2025-05-06
+Luke Edwards,137,Marketing,"Effective marketer but needs trend awareness.",4,"Marketing Strategy, Engagement","Market Trends Knowledge",2025-05-07
+Abigail Morris,138,HR,"Compassionate but needs improved onboarding strategies.",4,"Communication, Empathy","Onboarding Practices",2025-05-08
+Connor Bailey,139,Finance,"Excellent analyst but needs leadership development.",3,"Numerical Expertise, Strategic Thinking","Leadership",2025-05-09
+Sophia Rivera,140,IT,"Reliable but needs better programming structure knowledge.",4,"Problem-Solving, Coding","Programming Structure",2025-05-10
+Logan Torres,141,Sales,"Persuasive but needs technical product understanding.",4,"Persuasion, Confidence","Technical Product Knowledge",2025-05-11
+Zoe Gray,142,Operations,"Efficient executor but needs feedback-taking skills.",3,"Process Execution, Discipline","Listening Skills",2025-05-12
+Madison Russell,143,Marketing,"Fantastic visual artist but lacks data-driven thinking.",4,"Visual Skills, Creativity","Data Analysis",2025-05-13
+Dylan Brooks,144,Finance,"Meticulous planner but needs adaptability.",4,"Planning, Accuracy","Flexibility",2025-05-14
+Lilly Foster,145,HR,"Compassionate but needs goal-setting strategies.",3,"Empathy, Trust Building","Goal Setting",2025-05-15
+Carter Bell,146,Operations,"Detailed but needs quicker decision-making.",3,"Precision, Organization","Decision-Making Speed",2025-05-16
+Chloe Parker,147,Marketing,"Skilled in audience engagement but needs branding consistency.",4,"Engagement, Creativity","Brand Strategy",2025-05-17
+Aiden Garcia,148,Sales,"Friendly but needs persistent deal-making techniques.",3,"Customer Service, Rapport Building","Closing Skills",2025-05-18
+Victoria Young,149,Finance,"Accurate but needs more automation knowledge.",4,"Accuracy, Detail-Oriented","Automation Tools",2025-05-19
+Samuel Lewis,150,Operations,"Strategic yet needs creative problem-solving skills.",4,"Strategic Thinking, Leadership","Innovation",2025-05-20
